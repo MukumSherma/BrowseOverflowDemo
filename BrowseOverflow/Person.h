@@ -14,5 +14,5 @@
 @property NSURL *avatarURL;
 
 -(id)initWithName:(NSString *)aName avatarLocation:(NSString *)location;
-
+//this person
 @end
